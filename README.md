@@ -88,6 +88,5 @@ Contributions are welcome! Feel free to fork the repo, make changes, and submit 
 This project is licensed under the **MIT License**. Feel free to modify and distribute it.
 
 ## 🔗 Connect with Me
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [https://github.com/LalitFD].
 
